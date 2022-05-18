@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamBazzal3
-- 👀 I’m interested in c++ 
-- 🌱 I’m currently learning computer science 2nd year
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning computer science 3rd year
 - 📫 How to reach me :adam.bazzal666@gmail.com
 
 <!---
